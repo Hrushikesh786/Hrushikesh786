@@ -35,13 +35,7 @@
 🔹 **College Event Manager** – Book slots, track participation, and manage clubs digitally  
 `React.js + Express + MongoDB`
 
-🔹 **Footstep Energy Project** – Smart energy harvesting using mechanical systems  
-`Embedded + Research + Hardware`
 
-🔹 **AI Virtual Assistant (MOSDAC)** – NLP bot for meteorological data queries  
-`NLP + Python + Knowledge Graph`
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrushikesh786&show_icons=true&theme=radical)  
@@ -50,7 +44,6 @@
 ---
 
 ## 🤝 Connect with Me  
-📧 Email: yourname@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+📧 Email: hrushikeshsuryawanshi832@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/hrushikesh-suryawanshi-05978a277  
 
