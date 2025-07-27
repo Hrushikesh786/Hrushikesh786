@@ -49,7 +49,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikesh786&layout=compact&theme=radical)
 
 </div>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikesh786&layout=compact&theme=radical)
 
 ---
 
