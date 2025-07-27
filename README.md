@@ -52,6 +52,14 @@
 
 ---
 
-## 🤝 Connect with Me  
-📧 Email: hrushikeshsuryawanshi832@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/hrushikesh-suryawanshi-05978a277](https://www.linkedin.com/in/hrushikesh-suryawanshi-05978a277)
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hrushikesh-suryawanshi-05978a277" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:hrushikeshsuryawanshi832@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+
