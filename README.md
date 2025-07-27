@@ -40,7 +40,15 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrushikesh786&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hrushikesh786&theme=radical)
+
+<div align="center">
+
+![Hrushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrushikesh786&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikesh786&layout=compact&theme=radical)
+
+</div>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikesh786&layout=compact&theme=radical)
 
 ---
