@@ -22,8 +22,7 @@
 ### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-<!-- Linux not included since you mentioned not knowing it -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -35,7 +34,10 @@
 🔹 **College Event Manager** – Book slots, track participation, and manage clubs digitally  
 `React.js + Express + MongoDB`
 
+🔹 **ChatApp** – Real-time chat application for testing purposes  
+`React.js + Node.js + Socket.IO`
 
+---
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hrushikesh786&show_icons=true&theme=radical)  
@@ -44,6 +46,5 @@
 ---
 
 ## 🤝 Connect with Me  
-📧 Email: hrushikeshsuryawanshi832@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/hrushikesh-suryawanshi-05978a277  
-
+📧 Email: hrushikeshsuryawanshi832@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/hrushikesh-suryawanshi-05978a277](https://www.linkedin.com/in/hrushikesh-suryawanshi-05978a277)
